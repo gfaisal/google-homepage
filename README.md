@@ -1,4 +1,4 @@
-Recreating Google Search page project using HTML/CSS
+Recreating Google Search page using HTML/CSS
 
 1. Google Default home page
 2. Google Search Result page
